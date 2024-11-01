@@ -8,17 +8,17 @@ const Work = () => {
     {
       image: PickMeals,
       title: "Somos Eficientes",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+      text: " ",
     },
     {
       image: ChooseMeals,
       title: "Somos Eficaces",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+      text: " ",
     },
     {
       image: DeliveryMeals,
       title: "Somos lo que necesitas",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
+      text: " ",
     },
   ];
   return (

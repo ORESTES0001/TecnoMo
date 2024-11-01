@@ -24,7 +24,7 @@ const About = () => {
           Aprende divirtiendote
         </p>
         <div className="about-buttons-container">
-          <a href=""> <button className="secondary-button">Descargar</button> </a>
+          <a href="https://drive.usercontent.google.com/download?id=1pG58mOZYf178xDTlPhlZ0PkfK_4C2QLy&export=download&authuser=0&confirm=t&uuid=89d86e73-618d-4f82-83a9-6ae26c7a984e&at=AN_67v3MX_wvK3eG84CtRkPCmnP0%3A1729350996245"> <button className="secondary-button">Descargar</button> </a>
           
         </div>
       </div>
